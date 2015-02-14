@@ -1,0 +1,4 @@
+Produs Categorie FR IT RO SP
+Conserva_Carne Mancare 0 5 5 8
+Ghid_Turistic Carte 0 5 0 9
+Paine Patiserie 1.1 2.1 2 1.1
