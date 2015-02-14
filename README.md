@@ -1,0 +1,2 @@
+# shopManagement
+This is a NetBeans project I have done for school. It consists in an application used for shops managememt. The user interface, created with Swing allows the users to add files of a specific format with products, taxes, quantities and shops and perform some actions with this data, such as showing some statistics, adding and deleting products, sorting them, searching for a specific product. The user interface is in Romanian. 
